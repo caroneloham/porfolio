@@ -2,7 +2,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![AOS](https://img.shields.io/badge/AOS-2.3.4-blueviolet?style=flat-square)](https://michalsnik.github.io/aos/)
 
-![Banner](Portfolio/img/background.png)
+![Banner](img/back.png)
 
 ---
 
